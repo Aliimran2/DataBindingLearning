@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataBindingTutorial</string>
+
+    <string name="format">%s Mumtaz</string>
+
+    <string-array name="mumtaz_sons">
+        <item>Imran</item>
+        <item>Shan</item>
+        <item>Irfan</item>
+        <item>Arslan</item>
+    </string-array>
+</resources>
