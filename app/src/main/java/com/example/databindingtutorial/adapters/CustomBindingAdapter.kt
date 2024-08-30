@@ -1,7 +1,7 @@
 package com.example.databindingtutorial.adapters
 
 import android.graphics.BitmapFactory
-import android.icu.number.NumberFormatter
+
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.databinding.BindingAdapter
