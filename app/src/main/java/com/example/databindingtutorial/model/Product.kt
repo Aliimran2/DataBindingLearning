@@ -9,5 +9,6 @@ data class Product(
     val salePrice: Double,
     val rating: Float,
     val totalRatings: Int,
-    val image: String
+    val image: String,
+
 )

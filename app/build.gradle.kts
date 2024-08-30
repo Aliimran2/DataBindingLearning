@@ -62,5 +62,6 @@ dependencies {
 
     // Optional - Lifecycle runtime for coroutines
     implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
+    implementation ("com.github.bumptech.glide:glide:4.16.0")
 
 }
